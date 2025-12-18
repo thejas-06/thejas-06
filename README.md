@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x-twitter&logoColor=white&link=https://x.com/thejas_an)](https://x.com/thejas_an)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white&link=mailto:tejasanteju@gmail.com)](mailto:tejasanteju@gmail.com)
 
-I’m an AI Engineer (studying at MIT Mysore) and a versatilist—adept at wearing different hats depending on the project: Full-Stack Web Developer , AI Engineer, ML Engineer , or beginner-level Designer . I love exploring new tech stacks  and building cool stuff 🛠.
+I’m an AI & ML Engineer (studying at MIT Mysore) and a versatilist—adept at wearing different hats depending on the project: Full-Stack Web Developer , AI Engineer, ML Engineer , or beginner-level Designer . I love exploring new tech stacks  and building cool stuff 🛠.
 
 ---
 
