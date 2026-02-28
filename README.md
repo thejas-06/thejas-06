@@ -9,7 +9,7 @@ I’m an AI & ML Engineer (studying at MIT Mysore) and a versatilist—adept at 
 ---
 
 ##  Currently Learning
-- Advanced Python 🐍
+- Advanced Machine Learning
 
 ---
 
